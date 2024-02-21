@@ -1,0 +1,2 @@
+const Data=[{id:"1",product:"snickers",price:"20",quantity:"7",totalamount:"140"},{id:"2",product:"Twix",price:"35.5",quantity:"5",totalamount:"177.5"},{id:"3",product:"Bounty",price:"70",quantity:"2",totalamount:"140"},{id:"4",product:"Galaxy",price:"10",quantity:"15",totalamount:"150"}]
+export default Data;

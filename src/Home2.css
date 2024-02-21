@@ -1,0 +1,64 @@
+.input{
+    background-color: rgb(214, 214, 250);
+}
+.formlabel{
+    color: rgb(67, 67, 231);
+font-size:large; 
+}
+.bsize
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+button
+{
+    margin-left: 5px;
+    width: 100px;
+}
+.id
+{
+    margin-right: 325px;
+}
+.product
+{
+    margin-right: 280px;
+}
+.price
+{
+    margin-right:280px ;
+}
+.quantity
+{
+    margin-right: 300px;
+}
+.totalamount
+{
+    margin-right: 160px;
+}
+@media screen and (max-width:1286px) {
+    .main-container {
+      display: inline-block;
+  
+    }
+    .price{
+        margin-right: 800px;
+    }
+    .id{
+        margin-right: 800px;
+    }
+    .product{
+        margin-right: 800px;
+    }
+    .totalamount
+    {
+        margin-right: 800px;
+    }
+    .quantity{
+        margin-right: 800px;
+    }
+    .formlabel
+  {
+    display:inline-block;
+  }
+}
